@@ -1,0 +1,60 @@
+.heading 
+{
+    display: flex;
+    margin-top: 50px;
+    margin-left: 50px;
+    background-image: url(image/image3.jpg);
+}
+.title
+{
+    margin-left: 20px;
+}
+.menu 
+{
+    margin-left: 280px;
+    margin-top: -40px;
+    background-color: antiquewhite;
+}
+.menu > ul > li 
+{
+    display: inline;
+    margin-right: 100px;
+}
+.content
+{
+    margin-left: 300px;
+}
+.course
+{
+    margin-left: 300px;
+}
+.footer
+{
+    text-align: center;
+    background-image: url(image/image2.jpg);
+}
+.course > table 
+{
+    width: 50%;
+    border-style: solid;
+}
+.Gallery >img
+{
+    height: 20%;
+    width: 20%;
+    display: inline;
+    margin-right: 20px;
+}
+.Gallery
+{
+    margin-left: 300px;
+}
+.contactus
+{
+    margin-left: 300px;
+}
+a 
+{
+    text-decoration: none;
+    color: black;
+}
